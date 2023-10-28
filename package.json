@@ -1,0 +1,26 @@
+{
+  "name": "brew-theme",
+  "displayName": "Brew",
+  "description": "A modern, muted, mellow theme that is kind to your eyeballs",
+  "version": "0.0.1",
+  "publisher": "trentbrew",
+  "engines": {
+    "vscode": "^1.10.x"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Brew Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brew-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trentbrew/brew-vscode-theme"
+  }
+}
