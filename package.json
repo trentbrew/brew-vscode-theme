@@ -1,9 +1,10 @@
 {
   "name": "brew-theme",
-  "displayName": "Brew",
+  "displayName": "Brew VSCode Theme",
   "description": "A modern, muted, mellow theme that is kind to your eyeballs",
-  "version": "0.0.1",
-  "publisher": "trentbrew",
+  "version": "0.1.5",
+  "icon": "logo.png",
+  "publisher": "turtlehq",
   "engines": {
     "vscode": "^1.10.x"
   },
