@@ -2,7 +2,7 @@
   "name": "brew-theme",
   "displayName": "Brew VSCode Theme",
   "description": "A modern, muted, mellow theme that is kind to your eyeballs",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "icon": "logo.png",
   "publisher": "turtlehq",
   "engines": {
