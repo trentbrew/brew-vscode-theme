@@ -2,7 +2,7 @@
   "name": "brew-theme",
   "displayName": "Brew Theme",
   "description": "A modern, muted, mellow theme that is kind to your eyeballs",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "icon": "logo.png",
   "publisher": "turtlehq",
   "engines": {
